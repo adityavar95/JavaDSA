@@ -20,7 +20,7 @@ import org.apache.poi.ss.usermodel.*;
  *
  * @author khaled
  */
-public class test {
+public class Test {
 
 	public static class column {
 
